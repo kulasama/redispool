@@ -1,0 +1,42 @@
+10
+
+dir
+0
+http://svn.lab.intra.nsfocus.com/svn/rs/openapi/trunk/redispool/src
+http://svn.lab.intra.nsfocus.com/svn/rs
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+18b6ffb4-b342-40e4-bba6-5c0ec2742491
+
+redis
+dir
+
+
+
+add
+
+redispool.py
+file
+
+
+
+add
+
